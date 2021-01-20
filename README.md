@@ -1,0 +1,2 @@
+# RESTful-Fundmentals-101
+In this project I am going to focus on developing a RESTful API with the proper industry handbook. Implementation of proper security, efficient algorithms, proper documentation and comments will be done. This will developed as an example of quality code.   Also, the focus will be a managing development using proper project management using DevOps resources to its fullest.   Languages used in this project will be React, Django and database used will be MongoDB.
